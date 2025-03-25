@@ -1,17 +1,17 @@
 [
     {
         "usuario": "Jonatas",
-        "senha": "senhaDoJonatas123",
+        "senha": "123456",
         "link": "https://raw.githubusercontent.com/jonatas6262/App_Android_Download/refs/heads/main/jonatas.json"
     },
     {
         "usuario": "Josias",
-        "senha": "senhaDoJosias456",
+        "senha": "123456",
         "link": "https://raw.githubusercontent.com/jonatas6262/App_Android_Download/refs/heads/main/josias.json"
     },
     {
         "usuario": "Fernanda",
-        "senha": "senhaDaFernanda789",
+        "senha": "123456",
         "link": "https://raw.githubusercontent.com/jonatas6262/App_Android_Download/refs/heads/main/fernanda.json"
     }
 ]
