@@ -1,0 +1,13 @@
+{
+    "usuario": "Jonatas",
+    "apps": [
+        {
+            "nomeApp": "App 1",
+            "link": "https://exemplo.com/link-do-apk1"
+        },
+        {
+            "nomeApp": "App 2",
+            "link": "https://exemplo.com/link-do-apk2"
+        }
+    ]
+}
